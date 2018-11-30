@@ -23,7 +23,7 @@ public class Player : MonoBehaviour
 
     private void Awake() {
         instance = this;
-        gameObject.SetActive(false);
+        //gameObject.SetActive(false);
     }
     
     // Message then methods
